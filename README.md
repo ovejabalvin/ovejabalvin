@@ -40,8 +40,8 @@ Actualmente estoy trabajando en proyectos con tecnologías como **React**, **Nex
 Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.
 
 - 📧 andresinciarte.dev@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/andresinciarte)  
-- 🌐 [Portafolio (si tienes uno)](https://tusitio.dev) *(opcional)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/andres-inciarte-casas-a77796334/)  
+- 🌐 [Portafolio (si tienes uno)](https://portfolioandres.vercel.app)
 
 ---
 
