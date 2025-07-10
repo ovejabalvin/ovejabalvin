@@ -43,7 +43,7 @@ Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre
 
 - 📧 inciarteandres46@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andres-inciarte-casas-a77796334/)  
-- 🌐 [Portafolio (si tienes uno)](https://portfolioandres.vercel.app)
+- 🌐 [Portfolio](https://portfolioandres.vercel.app)
 
 ---
 
