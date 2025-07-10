@@ -27,11 +27,13 @@ Soy una persona con gran capacidad de **trabajo en equipo**, organizada, y con u
 
 Cuando la situación lo requiere, puedo **liderar equipos** de forma proactiva, fomentando la colaboración, la comunicación clara y el enfoque en objetivos comunes.
 
+Además, estoy **familiarizado con el uso de Inteligencia Artificial**, tanto como apoyo al desarrollo como para diseñar soluciones que la integren. Actualmente me estoy **formando activamente en el uso e implementación de AI Agents** para llevar mis proyectos al siguiente nivel.
 ---
 
 ## 🚀 Lo que estoy construyendo ahora
 
 Actualmente estoy trabajando en proyectos con tecnologías como **React**, **Next.js**, **NestJS** y **PostgreSQL**, aplicando principios de diseño limpio, seguridad y rendimiento. También experimento con contenedores Docker y despliegue continuo para mejorar el flujo DevOps.
+
 
 ---
 
@@ -39,7 +41,7 @@ Actualmente estoy trabajando en proyectos con tecnologías como **React**, **Nex
 
 Estoy abierto a nuevas oportunidades, colaboraciones o simplemente charlar sobre tecnología.
 
-- 📧 andresinciarte.dev@gmail.com  
+- 📧 inciarteandres46@gmail.com 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andres-inciarte-casas-a77796334/)  
 - 🌐 [Portafolio (si tienes uno)](https://portfolioandres.vercel.app)
 
